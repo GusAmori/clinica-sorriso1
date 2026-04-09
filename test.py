@@ -22,7 +22,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 class="titulo-principal">🦷 GESTÃO CLÍNICA SORRISO DOURADO</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="titulo-principal">🦷 GESTÃO CLÍNICA DRA. ISA DE MIRANDA</h1>', unsafe_allow_html=True)
 
 # --- CONEXÃO COM BANCO EXTERNO (SUPABASE / AZURE) ---
 def get_connection():
